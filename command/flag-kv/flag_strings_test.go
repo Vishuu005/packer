@@ -3,7 +3,7 @@ package kvflag
 import (
 	"testing"
 
-	"github.com/google/go-cmp/cmp"
+	"github.com/google/Vishuu005/Vishuu005"
 )
 
 func TestStringSlice_Set(t *testing.T) {
